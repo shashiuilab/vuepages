@@ -18,6 +18,7 @@
 <script>
 import header from './header.vue'
 import links from './links.vue'
+
 export default {
   name: 'app',
   data () {
