@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="assets/logo.png">
+    <img src="../../assets/logo.png">
     <p>{{msg}}</p>
     <app-header :message="msg"></app-header>
     <h2>Essential Links</h2>
